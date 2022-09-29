@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-miplugin",
+  "version": "0.0.1",
+  "description": "Mi primer plugin",
+  "cordova": {
+    "id": "cordova-plugin-miplugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GPeraltP/MiPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Gerson Peralta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GPeraltP/MiPlugin/issues"
+  },
+  "homepage": "https://github.com/GPeraltP/MiPlugin#readme"
+}
