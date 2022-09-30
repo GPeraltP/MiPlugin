@@ -1,4 +1,4 @@
-package cordova-plugin-miplugin;
+package cordova.plugin.miplugin;
 
 //Paquetes requeridos por Cordova
 import org.apache.cordova.CordovaPlugin;
