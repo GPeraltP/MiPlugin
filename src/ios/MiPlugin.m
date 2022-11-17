@@ -6,7 +6,7 @@
 //API Nativo
 #import <UIKit/UIKit.h>
 
-@interface MiPlugin : CDVPlugin {
+@interface MiPlugin : CDVPlugin 
   // variables y métodos de la interface
 
 - (void)showWidget:(CDVInvokedUrlCommand*)command;
